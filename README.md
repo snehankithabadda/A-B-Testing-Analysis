@@ -34,8 +34,3 @@ segments worth targeting if we scale it up?
 
 ## Tools
 Python, pandas, scipy, statsmodels, seaborn/matplotlib
-
-## How to Run
-1. Download `marketing_AB.csv` from the Kaggle link above
-2. Install dependencies: `pip install pandas scipy statsmodels seaborn matplotlib`
-3. Open `AB_Testing.ipynb` and run all cells
